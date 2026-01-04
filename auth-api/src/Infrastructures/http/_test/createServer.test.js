@@ -537,5 +537,4 @@ describe('HTTP server', () => {
       expect(responseJson.value).toEqual('Hello world!');
     });
   });
-
 });
